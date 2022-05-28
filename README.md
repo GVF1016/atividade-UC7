@@ -1,2 +1,2 @@
 # atividade-UC7
-teste do teste
+ultilizei principalmente o git add e o git commit
